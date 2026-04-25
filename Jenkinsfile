@@ -5,7 +5,7 @@ pipeline {
         IMAGE_NAME = 'zoople-devops-workshop-adithyan:latest'
         CONTAINER_NAME = 'adithyan-app'
         APP_PORT = '3000'
-        DOMAIN = 'adityan.workshop.zoople.in'
+        DOMAIN = 'adithyan.workshop.zoople.in'
         NGINX_DIR = '/home/ubuntu/nginx'
     }
 
